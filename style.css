@@ -16,5 +16,10 @@
     justify-content: space-around;
 }
 button{
-    padding:0.5rem;
+    padding:0.8rem;
+}
+.active{
+    background-color: black;
+    color:white;
+    mix-blend-mode: color-burn;
 }
